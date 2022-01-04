@@ -1,3 +1,4 @@
+
 .tom{
     display: flex;
         font-family: 'Open Sans', sans-serif;
@@ -8,9 +9,10 @@
 .tom-design{
     width: 50%;
     padding: 5% 5% 5% 5%;
-    box-shadow: 10px 10px 40px  gray;
+    box-shadow: 10px 10px gray;
    margin: 4% 6% 10% 4%;
-   border-top: solid slateblue;
+    border-left: 10px solid orange;
+    border-radius: 10px;
     
 }
 .tom-img{
@@ -23,6 +25,7 @@
 
 .tom-primary{
     color: slateblue;
+   
 }
 .jerry-img{
     width: 60%;
@@ -31,7 +34,32 @@
 }
 .jerry{
     display: flex;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .jerry-primary{
     color: orange;
+    
+}
+.spike{
+    display: flex;
+    margin: 2%;
+   
+    padding: 1%;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 8px;
+}
+
+.spike-bhv{
+    margin: 1%;
+    padding:1%;
+    box-shadow: 10px 10px 40px gray;
+   
+    border-left:6px solid gray;
+    border-radius: 7px;
+    
+   
+}
+.intro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
