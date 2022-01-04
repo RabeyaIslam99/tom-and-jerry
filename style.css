@@ -2,13 +2,36 @@
     display: flex;
         font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+  
 }
 .tom-design{
-    margin: 20px 30px 10px;
-    padding-right: 50%;
+    width: 50%;
+    padding: 5% 5% 5% 5%;
+    box-shadow: 10px 10px 40px  gray;
+   margin: 4% 6% 10% 4%;
+   border-top: solid slateblue;
+    
 }
 .tom-img{
-   
-  margin-left: 30px;
+      width: 40%;
+    padding-top: 20%;
+    padding-left: 20%;
+    
 
+}
+
+.tom-primary{
+    color: slateblue;
+}
+.jerry-img{
+    width: 60%;
+    padding-left: 9%;
+
+}
+.jerry{
+    display: flex;
+}
+.jerry-primary{
+    color: orange;
 }
