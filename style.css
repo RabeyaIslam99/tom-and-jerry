@@ -9,8 +9,8 @@
 .tom-design{
     width: 50%;
     padding: 5% 5% 5% 5%;
-    box-shadow: 10px 10px gray;
-   margin: 4% 6% 10% 4%;
+    box-shadow: 10px 25px 25px gray;
+   margin: 1%6% 10% 4%;
     border-left: 10px solid orange;
     border-radius: 10px;
     
@@ -27,9 +27,12 @@
     color: slateblue;
    
 }
+#tim{
+    text-align: center;
+}
 .jerry-img{
-    width: 60%;
-    padding-left: 9%;
+    width: 1px;
+    padding-left: 20%;
 
 }
 .jerry{
@@ -39,6 +42,7 @@
 }
 .jerry-primary{
     color: orange;
+    text-align: center;
     
 }
 .spike{
@@ -62,4 +66,5 @@
 }
 .intro{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
 }
