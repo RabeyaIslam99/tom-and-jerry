@@ -1,10 +1,26 @@
+.top{
+    text-align: right;
+    margin-top: 20px;
+    
+}
+.top-tom{
+   text-decoration: none;
+   margin-left: 2%;
+   margin-top: 100px;
+  padding: 6px;
+   background-color: aqua;
+   border-radius: 5px;
+   
+   
+ 
+   }
 
 .tom{
     display: flex;
         font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-  
+    
 }
 .tom-design{
     width: 50%;
@@ -15,7 +31,23 @@
     border-radius: 10px;
     border-image: linear-gradient(orange,wheat);
     border-image-slice: 1;
+    
+  
+  
    
+}
+.button{
+    text-decoration: none;
+    background-color: lightsalmon;
+    padding: 2%;
+  border-radius: 4px;
+  background: linear-gradient(orange,lightsalmon);
+  
+}
+.button:hover{
+    color:black;
+    background-color: wheat;
+    
 }
 .tom-img{
       width: 40%;
