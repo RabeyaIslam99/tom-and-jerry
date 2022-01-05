@@ -8,12 +8,14 @@
 }
 .tom-design{
     width: 50%;
-    padding: 5% 5% 5% 5%;
+    padding: 5% ;
     box-shadow: 10px 25px 25px gray;
-   margin: 1%6% 10% 4%;
+     margin: 1% 1% 10% 4%;
     border-left: 10px solid orange;
     border-radius: 10px;
-    
+    border-image: linear-gradient(orange,wheat);
+    border-image-slice: 1;
+   
 }
 .tom-img{
       width: 40%;
@@ -31,8 +33,8 @@
     text-align: center;
 }
 .jerry-img{
-    width: 1px;
-    padding-left: 20%;
+    
+   width: 1px;
 
 }
 .jerry{
@@ -43,6 +45,7 @@
 .jerry-primary{
     color: orange;
     text-align: center;
+
     
 }
 .spike{
@@ -67,4 +70,14 @@
 .intro{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: grey;
+}
+.jerry-act{
+    padding-left: 3%;
+    box-shadow: 10px 25px 25px lightcoral;
+    margin: 5% ;
+    margin-bottom: 20%;
+    margin-top: 10%;
+    border-right: 3px solid indianred;
+    background: linear-gradient(to top, pink,salmon);
+    border-radius: 10px;
 }
